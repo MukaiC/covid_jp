@@ -1,0 +1,8 @@
+*.pyc
+temp.py
+test.py
+*checkpoints/
+covid_jp.ipynb
+scraper_class.py
+main.py
+japan_covid19.csv
